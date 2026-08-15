@@ -8,3 +8,5 @@ https://cdn.ntv.ru/ntv0_foreign/index.m3u8
 http://fs.uplink.kz/match_planeta/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Пятый канал" tvg-logo="https://raw.githubusercontent.com/debian1500/iptv_m3u_tools/refs/heads/main/tvicons/png/5tv.png" tvg-country="RU" group-title="Russia",Пятый канал
 https://tvcdnpotok.com/bVfNmd-mh6zbor16T6qlZg/524/1786848282/index.m3u8
+#EXTINF:-1 tvg-name="Россия К (Культура)" tvg-logo="https://raw.githubusercontent.com/debian1500/iptv_m3u_tools/refs/heads/main/tvicons/png/russia-k.png" tvg-country="RU" group-title="Russia",Россия К (Культура)
+https://live.smotrim.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
