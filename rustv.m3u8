@@ -11,6 +11,8 @@ https://tvcdnpotok.com/bVfNmd-mh6zbor16T6qlZg/524/1786848282/index.m3u8
 #EXTINF:-1 tvg-name="Россия К (Культура)" tvg-logo="https://raw.githubusercontent.com/debian1500/iptv_m3u_tools/refs/heads/main/tvicons/png/russia-k.png" tvg-country="RU" group-title="Russia",Россия К (Культура)
 https://live.smotrim.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 #EXTINF:-1 tvg-name="viju TV1000" tvg-logo="https://raw.githubusercontent.com/debian1500/iptv_m3u_tools/refs/heads/main/tvicons/png/viju_tv1000.png" tvg-country="RU" group-title="Russia",viju TV1000
+#EXTINF:-1 tvg-name="Мир HD" tvg-logo="https://raw.githubusercontent.com/debian1500/iptv_m3u_tools/refs/heads/main/tvicons/png/mir.png" tvg-country="RU" group-title="Russia",Мир HD
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://edge05-alm.beetv.kz/bpk-token/4an@3ejiumbifbrsf3psn2u0tsqizkhjccfl3egd2mba/bpk-tv/000003747/tve/000003747-audio_82882_rus=82400-video=5287600.m3u8
 #EXTINF:-1 tvg-name="viju TV1000 Action" tvg-logo="https://raw.githubusercontent.com/debian1500/iptv_m3u_tools/refs/heads/main/tvicons/png/viju_tv1000_action.png" tvg-country="RU" group-title="Russia",viju TV1000 Action
 https://edge08-alm.beetv.kz/bpk-token/4an@zmn0sd0ivjloiups2pdtd0ufhegltw2qzodkjada/bpk-tv/000003910/tve/000003910-audio_82882_rus=82400-video=5287600.m3u8
