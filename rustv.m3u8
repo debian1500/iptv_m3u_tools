@@ -16,3 +16,5 @@ https://edge05-alm.beetv.kz/bpk-token/4an@3ejiumbifbrsf3psn2u0tsqizkhjccfl3egd2m
 https://edge08-alm.beetv.kz/bpk-token/4an@zmn0sd0ivjloiups2pdtd0ufhegltw2qzodkjada/bpk-tv/000003910/tve/000003910-audio_82882_rus=82400-video=5287600.m3u8
 #EXTINF:-1 tvg-name="viju TV1000 Русское" tvg-logo="https://raw.githubusercontent.com/debian1500/iptv_m3u_tools/refs/heads/main/tvicons/png/viju_tv1000_russian.png" tvg-country="RU" group-title="Russia",viju TV1000 Русское
 https://edge01-alm.beetv.kz/bpk-token/4an@gqouk5ob1rk3lioexdnn03iv4vbudv0xgapqkcaa/bpk-tv/000003748/tve/000003748-audio_82882_rus=82400-video=5287600.m3u8
+#EXTINF:-1 tvg-name="viju+ Comedy" tvg-logo="https://raw.githubusercontent.com/debian1500/iptv_m3u_tools/refs/heads/main/tvicons/png/viju_comedy.png" tvg-country="RU" group-title="Russia",viju+ Comedy
+https://edge04-alm.beetv.kz/bpk-token/4an@5ffua3vmvqcuhkiqmh24rkib0dpjbfip5hsraada/bpk-tv/000000870/tve/000000870-audio_82882_rus=82400-video=3712400.m3u8
